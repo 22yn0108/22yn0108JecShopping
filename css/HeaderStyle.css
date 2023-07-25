@@ -1,0 +1,39 @@
+#logo{
+    float: left;
+}
+
+
+#link{
+    float: right;
+}
+
+#clear{
+    clear: both;
+}
+
+#goodsgroup{
+    float: left;
+    width: 80px;
+}
+
+#goodslist{
+    margin-left: 100px;
+}
+
+#LoginTable{
+    float: left;
+}
+
+.box{
+    margin-left: 10px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    padding: 5px;
+    border-width: 1px; border-style: solid; border-color: black;
+}
+
+th{
+    background-color: green;
+    color: white;
+    text-align: center;
+}
